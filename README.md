@@ -1,7 +1,7 @@
 # MPP
 
 ---
-Guitar
+*Guitar*
 ---
 ---
 

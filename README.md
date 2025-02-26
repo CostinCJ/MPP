@@ -3,6 +3,7 @@
 ---
 Guitar
 ---
+---
 
 Some attributes:
   - Strings

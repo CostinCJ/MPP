@@ -6,10 +6,9 @@
 ---
 
 Some attributes:
-  - Strings
-  - Pick Ups (Optional)
-  - Body Wood Type
-  - Tuners
-  - Neck Wood Type
-  - Type (Classic, Electric, Hybrid)
-  - etc
+  - Guitar Name
+  - Manufacturer
+  - Type
+  - String Number
+  - Condition
+  - Price
